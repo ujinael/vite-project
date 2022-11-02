@@ -1,0 +1,29 @@
+.form{
+    display: flex;
+    background-color: rgb(23, 154, 111);
+    padding: .5rem;
+    gap: 1rem;
+    align-items: center;
+    box-shadow: 0 2px 3px gray;
+&__title{
+    color: white;
+}
+&__item{
+display: grid;    
+}
+&__label{
+    color: white;
+    font-size: small;
+    margin-bottom: .2em;
+}
+&__select{
+padding: .35em; 
+background-color: transparent;  
+border: 1px solid white; 
+color: white;
+border-radius: 3px;
+}
+&__select:focus{
+    outline: none;
+}
+}

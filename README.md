@@ -1,7 +1,16 @@
 # vite-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Реализован список сообщений пользователей на основе тестового задания
 
+Стек:
+-vue3
+-typescript
+-pinia
+-scss
+
+после клонирования перейти в каталог проекта
+выполнить npm install
+запуск командой run dev
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
