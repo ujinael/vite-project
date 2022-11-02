@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"Ali Connors",
+    "avatar": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+"address":"New York,Manhattan,Street 1,1",
+"country":"usa",   
+"score":5,
+    "message":{
+    "title":"Brunch this weekend?",
+    "body":"I'll be in your neighborhood doing errands this weekend. Do you want to hang out?"
+}  
+},
+{
+    "id":2,
+    "name":"Scott, Jennifer",
+"avatar": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+"address":"New York,Manhattan,Street 1,4",
+"country":"usa", 
+"score":8,
+"message":{
+"title":"Summer BBQ",
+"body":"Wish I could come, but I'm out of town this weekend."
+}  
+},
+{
+    "id":3,
+    "name":"Sandra Adams",
+"avatar": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+"address":"Sankt-Peterburg,Nevsky pr.,1",
+"country":"russia", 
+"score":16,
+"message":{
+"title":"Oui oui",
+"body":"Do you have Paris recommendations? Have you ever been?"
+}  
+},
+{
+    "id":4,
+    "name":"Trevor Hansen",
+"avatar": "https://cdn.vuetifyjs.com/images/lists/4.jpg",
+"address":"Sankt-Peterburg,Nevsky pr.,2",
+"country":"russia",  
+"score":24,
+"message":{
+"title":"Birthday gift",
+"body":"Have any ideas about what we should get Heidi for her birthday?"
+}  
+},
+{
+    "id":5,
+    "name":"Britta Holt",
+"avatar": "https://cdn.vuetifyjs.com/images/lists/5.jpg",
+"address":"New York,Manhattan,Street 1,1",
+"country":"usa", 
+"score":33,
+"message":{
+"title":"Recipe to try",
+"body":"We should eat this: Grate, Squash, Corn, and tomatillo Tacos."
+}  
+}
+]
